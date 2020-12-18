@@ -5,7 +5,7 @@ This paper proposes a Vehicle to Vehicle communication-based model for collision
 by analysing the various parameters shared during communication and using the results of this
 analysis to provide warning signals to the autonomous cars to avoid collision. 
 
-The proposed collision avoidance algorithms greatly benefits from the information exchange between the ve-
+The proposed collision avoidance algorithms greatly benefit from the information exchange between the ve-
 hicles that are inside the Vehicular Ad-hoc network to calculate safe accelerations, distances,
 and velocities that the vehicles would later take on to guarantee the avoidance of collision.
 Simulations were done for three scenarios namely; Blind Spot, Intersection Movement Assist
