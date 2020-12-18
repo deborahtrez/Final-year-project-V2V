@@ -1,0 +1,49 @@
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{1}{}%
+\contentsline {section}{\numberline {1.1}Background}{1}{}%
+\contentsline {section}{\numberline {1.2}Problem Statement}{2}{}%
+\contentsline {section}{\numberline {1.3}Aims and Objectives}{3}{}%
+\contentsline {subsubsection}{The specific objectives of the research were:}{3}{}%
+\contentsline {section}{\numberline {1.4}Contributions of the Project}{3}{}%
+\contentsline {section}{\numberline {1.5}Organization of the Report}{3}{}%
+\contentsline {chapter}{\numberline {2}LITERATURE REVIEW}{5}{}%
+\contentsline {section}{\numberline {2.1}Introduction}{5}{}%
+\contentsline {section}{\numberline {2.2}Wireless Communication Technologies for Vehicles}{5}{}%
+\contentsline {subsection}{\numberline {2.2.1}Bluetooth}{5}{}%
+\contentsline {subsection}{\numberline {2.2.2}WiFi}{6}{}%
+\contentsline {subsection}{\numberline {2.2.3}Cellular}{6}{}%
+\contentsline {subsubsection}{3G}{6}{}%
+\contentsline {subsubsection}{4G}{6}{}%
+\contentsline {subsection}{\numberline {2.2.4}5G}{7}{}%
+\contentsline {section}{\numberline {2.3}Safety Applications Addressed by V2V}{7}{}%
+\contentsline {section}{\numberline {2.4}Vehicular Ad Hoc Networks (VANETs)}{8}{}%
+\contentsline {section}{\numberline {2.5}Vehicle-to-Vehicle Communication}{9}{}%
+\contentsline {subsection}{\numberline {2.5.1} Vehicle-to-Vehicle Local Broadcast}{9}{}%
+\contentsline {subsection}{\numberline {2.5.2}V2V Multi-hop Message Dissemination}{10}{}%
+\contentsline {subsection}{\numberline {2.5.3}Infrastructure to Vehicle Local Broadcast}{10}{}%
+\contentsline {subsection}{\numberline {2.5.4}Vehicle- to- Infrastructure Bi-directional Communications}{10}{}%
+\contentsline {section}{\numberline {2.6}Summary}{11}{}%
+\contentsline {chapter}{\numberline {3}METHODOLOGY}{12}{}%
+\contentsline {section}{\numberline {3.1}Introduction}{12}{}%
+\contentsline {section}{\numberline {3.2}Project Process Flow}{12}{}%
+\contentsline {section}{\numberline {3.3}Tools Used}{12}{}%
+\contentsline {subsection}{\numberline {3.3.1}MATLAB}{12}{}%
+\contentsline {subsection}{\numberline {3.3.2}Microsoft Visio}{13}{}%
+\contentsline {section}{\numberline {3.4}Forward Collision Warning}{13}{}%
+\contentsline {subsubsection}{Working of the algorithm}{14}{}%
+\contentsline {subsubsection}{Threshold 1}{15}{}%
+\contentsline {subsubsection}{Threshold 2}{16}{}%
+\contentsline {subsubsection}{Threshold 3}{16}{}%
+\contentsline {section}{\numberline {3.5}Intersection Movement Assist (IMA)}{19}{}%
+\contentsline {subsubsection}{Working of the algorithm}{20}{}%
+\contentsline {section}{\numberline {3.6}Blind Spot Warning}{22}{}%
+\contentsline {subsubsection}{Working of the algorithm}{23}{}%
+\contentsline {section}{\numberline {3.7}The Communication Model}{25}{}%
+\contentsline {subsection}{\numberline {3.7.1}The Role of the Base Stations}{25}{}%
+\contentsline {subsection}{\numberline {3.7.2}The Role of the Road Side Units}{25}{}%
+\contentsline {chapter}{\numberline {4}RESULTS AND ANALYSIS}{26}{}%
+\contentsline {chapter}{\numberline {5}CONCLUSIONS}{28}{}%
+\contentsline {section}{\numberline {5.1}Key Conclusions}{28}{}%
+\contentsline {section}{\numberline {5.2}Challenges}{29}{}%
+\contentsline {section}{\numberline {5.3}Recommendations}{29}{}%
+\contentsline {section}{\numberline {5.4}Ideas for Future Work}{30}{}%
+\contentsline {chapter}{\numberline {A}Appendix}{32}{}%

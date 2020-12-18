@@ -1,0 +1,22 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Examples of safety warnings addressed by V2V and their descriptions \cite {readiness}\relax }}{7}{}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Illustration of a Vehicular Ad Hoc Network \cite {readiness}\relax }}{8}{}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Vehicle safety communication modes \cite {protocols}. \relax }}{9}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces A forward collision scenario with parameters\relax }}{13}{}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Communication in a forward collision scenario\relax }}{14}{}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Two vehicles at potential risk of collision at intersection\relax }}{19}{}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Analysis of Intersection Movement Assist (IMA) with parameters\relax }}{19}{}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Analysis of blind spot\relax }}{22}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces When $U_a$ is less than $U_b$ and range $d_R$ is greater than safe distance $d_S$.\relax }}{27}{}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces When $U_a$ is greater than $U_b$ and range $d_R$ is greater than safe distance $d_S$.\relax }}{27}{}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces The code used to generate acceleration scenario in Fig 4.1.\relax }}{32}{}%
+\contentsline {figure}{\numberline {A.2}{\ignorespaces The code used to determine if the safe distances between the cars in the forward collision scenario were maintained\relax }}{33}{}%
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Forward collision avoidance algorithm code - part 1 \relax }}{34}{}%
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Forward collision avoidance algorithm code - part 2 \relax }}{34}{}%
+\contentsline {figure}{\numberline {A.5}{\ignorespaces Results obtained from running the forward collision avoidance algorithm\relax }}{35}{}%
+\contentsline {figure}{\numberline {A.6}{\ignorespaces Results obtained from determining if safe distances were maintained\relax }}{36}{}%
